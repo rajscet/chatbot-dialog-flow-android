@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ai.api:libai:1.6.11@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.api/libai/1.6.11/7ed52895bd658861359a8f3e9e14983fda2953b6/libai-1.6.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ai.api/libai/1.6.11/7a0e9bbd0820f8973098c7c4298845b3e5bc0bc8/libai-1.6.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

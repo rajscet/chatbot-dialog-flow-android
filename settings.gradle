@@ -1,0 +1,2 @@
+include ':app', ':speechrecognitionview'
+project(':speechrecognitionview').projectDir = new File('app/libs/speechrecognitionview')
